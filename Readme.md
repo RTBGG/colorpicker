@@ -1,3 +1,5 @@
 # Full screen color picker thing
 
-http://color.aurlien.net
+Original: http://color.aurlien.net
+
+Adjusted to work on my configuration: https://color.rtb.gg
